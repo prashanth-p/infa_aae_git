@@ -60,7 +60,7 @@
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "",
+        "description" : "dummy change",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
