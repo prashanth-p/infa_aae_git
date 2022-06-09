@@ -1,7 +1,7 @@
 <aetgt:getResponse xmlns:aetgt="http://schemas.active-endpoints.com/appmodules/repository/2010/10/avrepository.xsd"
                    xmlns:types1="http://schemas.active-endpoints.com/appmodules/repository/2010/10/avrepository.xsd">
    <types1:Item>
-      <types1:EntryId>9uAls2z8Uuopz4K-gt-44486513-2022-02-04T15:12:02.797Z::tf.xml</types1:EntryId>
+      <types1:EntryId>VPNzUzeA8rJ4pbg-gt-44274750-2022-02-04T13:55:46.772Z::tf.xml</types1:EntryId>
       <types1:Name>tf_test_04258615_cicd</types1:Name>
       <types1:MimeType>application/xml+taskflow</types1:MimeType>
       <types1:Description/>
@@ -10,10 +10,14 @@
       <types1:VersionLabel>1.0</types1:VersionLabel>
       <types1:State>CURRENT</types1:State>
       <types1:ProcessGroup/>
-      <types1:CreatedBy>spokala</types1:CreatedBy>
-      <types1:CreationDate>2022-02-04T15:12:03Z</types1:CreationDate>
-      <types1:ModifiedBy/>
-      <types1:PublicationStatus>unpublished</types1:PublicationStatus>
+      <types1:CreatedBy>prashanth-p</types1:CreatedBy>
+      <types1:CreationDate>2022-02-04T13:55:47Z</types1:CreationDate>
+      <types1:ModifiedBy>prashanth-p</types1:ModifiedBy>
+      <types1:ModificationDate>2022-06-06T15:09:59Z</types1:ModificationDate>
+      <types1:PublicationStatus>published</types1:PublicationStatus>
+      <types1:PublishedBy>prashanth-p</types1:PublishedBy>
+      <types1:PublicationDate>2022-06-06T15:10:04Z</types1:PublicationDate>
+      <types1:PublishedContributionId>project:/tf.tf_test_04258615_cicd/tf_test_04258615_cicd.tf.xml</types1:PublishedContributionId>
       <types1:AutosaveExists>false</types1:AutosaveExists>
       <types1:Entry>
          <taskflow xmlns="http://schemas.active-endpoints.com/appmodules/screenflow/2010/10/avosScreenflow.xsd"
@@ -53,7 +57,7 @@
                         <parameter name="Wait for Task to Complete" source="constant" updatable="true">true</parameter>
                         <parameter name="Max Wait" source="constant" updatable="true">604800</parameter>
                         <parameter name="Task Name" source="constant" updatable="true">mt_04258615_cicd</parameter>
-                        <parameter name="GUID" source="constant" updatable="true">9sH96EPAFVAk5vAwgjY8Is</parameter>
+                        <parameter name="GUID" source="constant" updatable="true">elIOV8jjCczkmC8QWGCr2J</parameter>
                         <parameter name="Task Type" source="constant" updatable="true">MCT</parameter>
                         <parameter name="Has Inout Parameters" source="constant" updatable="true">false</parameter>
                         <parameter name="taskField" source="nested">
@@ -121,8 +125,8 @@
             </dependencies>
          </taskflow>
       </types1:Entry>
-      <types1:GUID>3Lo2WB9aCwXgAjLPdeUL8o</types1:GUID>
+      <types1:GUID>2ROPGXOa7YqdaPwqrXjrE9</types1:GUID>
       <types1:DisplayName>tf_test_04258615_cicd</types1:DisplayName>
    </types1:Item>
-   <types1:CurrentServerDateTime>2022-06-09T12:25:08.5Z</types1:CurrentServerDateTime>
+   <types1:CurrentServerDateTime>2022-06-09T12:53:00.465Z</types1:CurrentServerDateTime>
 </aetgt:getResponse>
